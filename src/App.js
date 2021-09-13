@@ -8,7 +8,7 @@ function App() {
     <
     p > Hello CSCI E - 39! < /p> <
     p >
-    My name is Ana <
+    My name is Ana! <
     /p> < /
     header > <
     /div>
